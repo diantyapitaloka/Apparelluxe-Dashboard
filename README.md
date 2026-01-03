@@ -9,6 +9,7 @@
 - Average Order Value (AOV) Optimization, By tracking the mean expenditure per transaction over daily, weekly, and monthly intervals, the dashboard helps executives determine the success of upselling strategies and bundled product offerings in increasing per-customer revenue.
 - User Experience and Interface Responsiveness, Built with a mobile-first philosophy, the dashboard ensures that stakeholders can access critical business intelligence and receive automated performance alerts on any device, whether they are in the office or traveling.
 - Predictive Revenue Forecasting, Utilizing historical sales data and seasonal trends, the dashboard generates AI-driven projections for upcoming months. This foresight allows leadership to make informed decisions regarding budget allocations and long-term financial planning.
+- Customer Lifetime Value (CLV) Analysis, This metric calculates the projected total revenue a single customer account will generate over the duration of their relationship with the brand. By identifying high-value segments, the team can tailor exclusive loyalty programs to retain the most profitable clientele.
 
 ![image](https://github.com/diantyapitaloka/apparelluxedashboard/assets/147487436/807f7833-7820-46a8-b24a-141f1aabc8f3)
 
